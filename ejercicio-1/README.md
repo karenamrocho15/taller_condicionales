@@ -23,3 +23,8 @@ elif X > 0:
         print("estas en el cuadrante 3")
         else:
         print("estas en el cuadrante 2")
+
+# DISEÑO
+
+![diagrama de flujo](diagrama.png "diagrama de flujo")
+
