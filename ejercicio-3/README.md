@@ -18,6 +18,6 @@ PRECIO_VENTAS =  es el precio obtimo para vender el procucto
 --
 # DISEÑO 
 
-![diagrama de flujo](diagrama.png "diagrama de flujo")
+![Diagrama de flujo](diagrama.png "diagrama de flujo")
 
 # CONSTRUCCION 

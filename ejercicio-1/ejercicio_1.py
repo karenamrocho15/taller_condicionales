@@ -16,12 +16,12 @@ elif Y == 0:
       print("la coordenada", (X , Y), "esta en el eje X")
 elif X > 0:
     if Y > 0: 
-        print( "la coordenada"(X , Y), "esta en el el cuadrante 1") 
+        print( "la coordenada", (X , Y), "esta en el el cuadrante 1") 
     else:
-        print("la coordenada"(X , Y), "esta en el cuadeante 4")
+        print("la coordenada", (X , Y), "esta en el cuadeante 4")
 elif Y < 0:
-        print("la coordenada"(X , Y), "esta en el cuadrante 3")
+        print("la coordenada", (X , Y), "esta en el cuadrante 3")
         
 else:
-    print("la coordenada"(X , Y), "esta en el cuadrante 2")
+    print("la coordenada",(X , Y), "esta en el cuadrante 2")
     
